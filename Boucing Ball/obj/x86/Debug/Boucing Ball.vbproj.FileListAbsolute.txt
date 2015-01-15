@@ -19,3 +19,6 @@ C:\Users\Dimitar\Desktop\Boucing Ball\Boucing Ball\obj\x86\Debug\Boucing_Ball.Fo
 C:\Users\Dimitar\Desktop\Boucing Ball\Boucing Ball\obj\x86\Debug\Boucing_Ball.Resources.resources
 C:\Users\Dimitar\Desktop\Boucing Ball\Boucing Ball\obj\x86\Debug\Boucing Ball.vbproj.GenerateResource.Cache
 C:\Users\Dimitar\Desktop\Boucing Ball\Boucing Ball\obj\x86\Debug\Boucing_Ball.StartTestForm.resources
+C:\Users\Dimitar\Documents\GitHub\Bouncing Ball\BouncingBallProject\Boucing Ball\obj\x86\Debug\Boucing Ball.exe
+C:\Users\Dimitar\Documents\GitHub\Bouncing Ball\BouncingBallProject\Boucing Ball\obj\x86\Debug\Boucing Ball.xml
+C:\Users\Dimitar\Documents\GitHub\Bouncing Ball\BouncingBallProject\Boucing Ball\obj\x86\Debug\Boucing Ball.pdb
